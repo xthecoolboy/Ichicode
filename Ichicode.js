@@ -1,5 +1,4 @@
 const { KlasaClient } = require('klasa');
-const { master, token } = require('./config.js');
 
 KlasaClient.defaultPermissionLevels
   .add(0, () => true)
@@ -60,4 +59,4 @@ const client = new KlasaClient({
   commandMessageLifetime: 60,
 });
 
-client.login(token);
+client.login(process.env.TOKEN);
