@@ -47,8 +47,8 @@ KlasaClient.defaultPermissionLevels
   .add(10, (client, msg) => msg.author.id === master);
 
 const client = new KlasaClient({
-  ownerID : master,
-  prefix: '+',
+  ownerID : 376384142599782410,
+  prefix: '>>',
   cmdDeleting: true,
   cmdEditing: true,
   cmdLogging: true,
