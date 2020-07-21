@@ -1,10 +1,10 @@
-exports.master = 'YOUR_TOKEN_ID_HERE';
+exports.master = '734495397145477210';
 exports.token = 'YOUR_BOT_TOKEN_HERE';
-exports.ytkey = 'YOUR_YOUTUBE_KEY_HERE';
+exports.ytkey = 'IAzSjcSjaIEWakos-_AKfaKejiwdjiASJIAsDs';
 
 /* IDs for bot's test server. This allows users from guilds to report and request features. */
-exports.masterServer = 'YOUR_MASTER_BOT_SERVER_ID_HERE';
-exports.reportChannel = 'YOUR_MASTER_BOT_SERVER_REPORT_CHANNEL_ID_HERE';
-exports.requestChannel = 'YOUR_MASTER_BOT_SERVER_REQUEST_CHANNEL_ID_HERE';
-exports.feedbackChannel = 'YOUR_MASTER_BOT_SERVER_FEEDBACK_CHANNEL_ID_HERE';
-exports.dmChannel = 'YOUR_MASTER_BOT_SERVER_DM_CHANNEL_ID_HERE';
+exports.masterServer = '727165164272484423';
+exports.reportChannel = '733800988481159229';
+exports.requestChannel = '729611780615045121';
+exports.feedbackChannel = '733776316138258563';
+exports.dmChannel = '729611781160566835';
